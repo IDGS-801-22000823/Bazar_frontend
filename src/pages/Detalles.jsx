@@ -15,7 +15,7 @@ import { StarFill } from "react-bootstrap-icons";
 import "../styles/Detalles.css";
 
 // URL de tu API RESTful
-const API_BASE_URL = "http://localhost:3001/api";
+const API_BASE_URL = "https://bazar-backend-is5t.onrender.com/api";
 
 function Detalles() {
   const { id } = useParams();

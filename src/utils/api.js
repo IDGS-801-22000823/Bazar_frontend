@@ -1,5 +1,5 @@
 // URL de la api en Express.js
-export const API_BASE_URL = "http://localhost:3001/api";
+export const API_BASE_URL = "https://bazar-backend-is5t.onrender.com/api";
 
 /**
  * Obtiene la lista de productos de la busqueda

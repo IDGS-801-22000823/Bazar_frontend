@@ -1,0 +1,19 @@
+.compras-container {
+  padding-top: 20px;
+}
+
+.sale-card {
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  transition: transform 0.2s;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+}
+
+.sale-card:hover {
+  transform: translateY(-2px);
+}
+
+.sale-card .card-title {
+  font-size: 1.1em;
+  font-weight: bold;
+}
